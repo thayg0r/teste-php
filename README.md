@@ -1,5 +1,9 @@
 # Teste PHP
 
+### Aplicação em Execução
+
+![Demonstração da aplicação](demo.gif)
+
 ### Objetivo
 
 Esta aplicação permite cadastrar e listar usuários com validações básicas.
