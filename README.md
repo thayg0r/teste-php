@@ -1,4 +1,4 @@
-# Teste Prático para Desenvolvedor PHP
+# Teste PHP
 
 ### Objetivo
 
