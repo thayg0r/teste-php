@@ -1,4 +1,3 @@
-/* Estilo básico para o corpo da página */
 body {
   font-family: Arial, sans-serif;
   background-color: #f4f4f4;
@@ -6,7 +5,6 @@ body {
   padding: 0;
 }
 
-/* Container centralizado */
 .container {
   width: 80%;
   margin: 20px auto;
@@ -16,18 +14,16 @@ body {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-/* Estilo do logo */
 .logo-container {
   text-align: center;
   margin-bottom: 20px;
 }
 
 .logo {
-  width: 120px; /* Ajuste o tamanho do logo conforme necessário */
+  width: 120px;
   height: auto;
 }
 
-/* Estilo para títulos */
 h1 {
   color: #333;
   text-align: center;
@@ -39,7 +35,6 @@ h2 {
   margin-bottom: 10px;
 }
 
-/* Estilo para o formulário */
 form {
   margin-bottom: 20px;
 }
@@ -63,7 +58,6 @@ input::placeholder {
   font-style: italic;
 }
 
-/* Botão */
 button {
   background: #86c945;
   color: #fff;
@@ -80,7 +74,6 @@ button:hover {
   background: #86c945;
 }
 
-/* Estilo para a tabela */
 table {
   width: 100%;
   border-collapse: collapse;
@@ -106,7 +99,6 @@ tr:nth-child(even) {
   background: #f9f9f9;
 }
 
-/* Estilos para mensagens */
 .error {
   color: red;
   margin-bottom: 10px;
@@ -117,7 +109,6 @@ tr:nth-child(even) {
   margin-bottom: 10px;
 }
 
-/* Centralizando texto */
 .text-center {
   text-align: center;
 }
